@@ -82,3 +82,4 @@
 - `reports/monthly_sales_trend.png`
 - `reports/discount_vs_profit.png`
 - `dashboards/sales_dashboard.html` (interactive Plotly dashboard)
+
